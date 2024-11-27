@@ -1,0 +1,12 @@
+After completing this lab, you will be able to use git commands to work with branches on a local repository, including:
+
+Create a new local repository using git init
+Create and add a file to the repo using git add
+Commit changes using git commit
+Create a branch using git branch
+Switch to a branch using git checkout
+Check the status of files changed using git status
+Review recent commits using git log
+Revert changes using git revert
+Get a list of branches and active branches using git branch
+Merge changes in your active branch into another branch using git merge
